@@ -21,6 +21,7 @@ branches:
 branches:
   only:
   - docs
+  - patch-1
 
 env:
   global:
